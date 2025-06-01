@@ -69,12 +69,6 @@ jarvis-chatbot/
 ```
 ---
 
-## Output
-
-![](screenshot/1.png)
----
----
-
 ## Future Enhancements
 
 * Voice interaction support for a full J.A.R.V.I.S. experience
