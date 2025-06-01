@@ -67,7 +67,12 @@ jarvis-chatbot/
 ├── app.py              # Main chatbot application
 └── README.md           # Project documentation
 ```
+---
 
+## Output
+
+![](screenshot/1.png)
+---
 ---
 
 ## Future Enhancements
